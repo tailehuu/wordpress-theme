@@ -1,8 +1,8 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /my-wordpress/
+RewriteBase /wordpress-theme/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /my-wordpress/index.php [L]
+RewriteRule . /wordpress-theme/index.php [L]
 </IfModule>
