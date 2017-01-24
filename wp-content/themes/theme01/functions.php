@@ -68,6 +68,34 @@ function theme01_setup()
 add_action('after_setup_theme', 'theme01_setup');
 
 /**
+ * Register widget area.
+ *
+ * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
+ */
+function theme01_widgets_init()
+{
+    register_sidebar(array(
+        'name' => __('Primary Sidebar', 'theme01'),
+        'id' => 'primary',
+        'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+        'after_widget' => '</aside>',
+        'before_title' => '<h1 class="widget-title">',
+        'after_title' => '</h1>',
+    ));
+
+    register_sidebar(array(
+        'name' => __('Secondary Sidebar', 'theme01'),
+        'id' => 'secondary',
+        'before_widget' => '<ul><li id="%1$s" class="widget %2$s">',
+        'after_widget' => '</li></ul>',
+        'before_title' => '<h3 class="widget-title">',
+        'after_title' => '</h3>',
+    ));
+}
+
+add_action('widgets_init', 'theme01_widgets_init');
+
+/**
  * Enqueue scripts and styles.
  */
 function theme01_scripts()
@@ -76,7 +104,7 @@ function theme01_scripts()
 
     wp_enqueue_style('custom', get_template_directory_uri() . '/assets/css/custom.css');
 
-    wp_enqueue_script('custom', get_template_directory_uri() . '/assets/js/custom.js', array ( 'jquery' ));
+    wp_enqueue_script('custom', get_template_directory_uri() . '/assets/js/custom.js', array('jquery'));
 
     if (is_singular() && comments_open() && get_option('thread_comments')) {
         wp_enqueue_script('comment-reply');

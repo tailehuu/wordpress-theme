@@ -1,8 +1,20 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: tailehuu
- * Date: 1/23/17
- * Time: 2:46 PM
+ * The sidebar containing the main widget area
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
+ *
+ * @package WordPress
+ * @subpackage Theme_01
+ * @since 1.0
+ * @version 1.0
  */
-echo 'sidebar';
+
+if (!is_active_sidebar('primary')) {
+    return;
+}
+?>
+
+<aside id="secondary" class="widget-area" role="complementary">
+    <?php dynamic_sidebar('primary'); ?>
+</aside><!-- #secondary -->
