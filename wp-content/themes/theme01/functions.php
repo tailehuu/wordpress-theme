@@ -10,6 +10,13 @@
  */
 
 /**
+ * First, let's set the maximum content width based on the theme's design and stylesheet.
+ * This will limit the width of all uploaded images and embeds.
+ */
+if ( ! isset( $content_width ) )
+    $content_width = 800; /* pixels */
+
+/**
  * Sets up theme defaults and registers support for various WordPress features.
  *
  * Note that this function is hooked into the after_setup_theme hook, which
