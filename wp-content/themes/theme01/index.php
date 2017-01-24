@@ -9,7 +9,9 @@
     else: ?>
         <?php _e('Sorry, no posts matched your criteria.', 'textdomain'); ?>
     <?php endif; ?>
+</div>
 
+<div id="sidebar">
     <?php get_sidebar(); ?>
 </div>
 
