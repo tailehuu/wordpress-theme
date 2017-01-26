@@ -148,7 +148,7 @@ class Foo_Widget extends WP_Widget
         if (!empty($title)) {
             echo $before_title . $title . $after_title;
         }
-        echo __('Hello, World!', 'text_domain');
+        echo __('Hello, World from Foo Widget!', 'text_domain');
         echo $after_widget;
     }
 
