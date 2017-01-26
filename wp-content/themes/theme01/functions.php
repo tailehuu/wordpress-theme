@@ -45,8 +45,8 @@ function theme01_setup()
      * Add support for two custom navigation menus.
      */
     register_nav_menus(array(
-        'primary' => __('Primary Menu', 'theme01'),
-        'secondary' => __('Secondary Menu', 'theme01')
+        'primary-menu' => __('Primary Menu', 'theme01'),
+        'secondary-menu' => __('Secondary Menu', 'theme01')
     ));
 
     /*
@@ -76,7 +76,7 @@ function theme01_widgets_init()
 {
     register_sidebar(array(
         'name' => __('Primary Sidebar', 'theme01'),
-        'id' => 'primary',
+        'id' => 'primary-sidebar',
         'before_widget' => '<aside id="%1$s" class="widget %2$s">',
         'after_widget' => '</aside>',
         'before_title' => '<h1 class="widget-title">',
@@ -85,7 +85,7 @@ function theme01_widgets_init()
 
     register_sidebar(array(
         'name' => __('Secondary Sidebar', 'theme01'),
-        'id' => 'secondary',
+        'id' => 'secondary-sidebar',
         'before_widget' => '<ul><li id="%1$s" class="widget %2$s">',
         'after_widget' => '</li></ul>',
         'before_title' => '<h3 class="widget-title">',

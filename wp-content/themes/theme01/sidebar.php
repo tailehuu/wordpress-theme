@@ -10,11 +10,11 @@
  * @version 1.0
  */
 
-if (!is_active_sidebar('primary')) {
+if (!is_active_sidebar('primary-sidebar')) {
     return;
 }
 ?>
 
 <aside>
-    <?php dynamic_sidebar('primary'); ?>
+    <?php dynamic_sidebar('primary-sidebar'); ?>
 </aside><!-- #secondary -->
