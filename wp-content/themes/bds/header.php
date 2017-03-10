@@ -17,3 +17,4 @@
     <![endif]-->
 </head>
 <body id="page-top">
+    <?php get_template_part('template-parts/navigation/navigation', 'top'); ?>

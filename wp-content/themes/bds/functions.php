@@ -136,3 +136,10 @@ function bds_scripts()
 }
 
 add_action('wp_enqueue_scripts', 'bds_scripts');
+
+// menu: add class function
+function add_menu_attributes( $atts, $item, $args ) {
+    $atts['class'] = 'page-scroll';
+    return $atts;
+}
+add_filter( 'nav_menu_link_attributes', 'add_menu_attributes', 10, 3 );
