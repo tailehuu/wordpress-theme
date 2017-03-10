@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
-                <h4><strong>B&#x1EA5;t &#x110;&#x1ED9;ng S&#x1EA3;n - TQT</strong>
+                <h4><strong><?php bloginfo('name'); ?></strong>
                 </h4>
 
                 <p>31 Nguy&#x1EC5;n Tr&#xE3;i
@@ -25,7 +25,7 @@
                     </li>
                 </ul>
                 <hr class="small">
-                <p class="text-muted">B&#x1EA3;n quy&#x1EC1;n &copy; B&#x1EA5;t &#x110;&#x1ED9;ng S&#x1EA3;n - TQT
+                <p class="text-muted">B&#x1EA3;n quy&#x1EC1;n &copy; <?php bloginfo('name'); ?>
                     2017</p>
             </div>
         </div>
