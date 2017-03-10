@@ -30,7 +30,7 @@
                         <a class="page-scroll" href="#services">D&#x1ECA;CH V&#x1EE4;</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">D&#x1EF0; &#xC1;N</a>
+                        <a class="page-scroll" href="#project">D&#x1EF0; &#xC1;N</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#news">TIN T&#x1EE8;C</a>
@@ -155,15 +155,15 @@
         </div>
     </section>
 
-    <section class="no-padding" id="portfolio">
+    <section class="no-padding" id="project">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?php bloginfo('template_url'); ?>/assets/images/portfolio/fullsize/1.jpg" class="portfolio-box">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/portfolio/thumbnails/1.jpg" class="images-responsive" alt="">
+                    <a href="<?php bloginfo('template_url'); ?>/assets/images/project/fullsize/1.jpg" class="project-box">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/project/thumbnails/1.jpg" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -175,11 +175,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/portfolio/fullsize/2.jpg" ?>" class="portfolio-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/portfolio/thumbnails/2.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/2.jpg" ?>" class="project-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/2.jpg" ?>" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -191,11 +191,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/portfolio/fullsize/3.jpg" ?>" class="portfolio-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/portfolio/thumbnails/3.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/3.jpg" ?>" class="project-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/3.jpg" ?>" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -207,11 +207,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/portfolio/fullsize/4.jpg" ?>" class="portfolio-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/portfolio/thumbnails/4.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/4.jpg" ?>" class="project-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/4.jpg" ?>" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -223,11 +223,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/portfolio/fullsize/5.jpg" ?>" class="portfolio-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/portfolio/thumbnails/5.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/5.jpg" ?>" class="project-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/5.jpg" ?>" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -239,11 +239,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/portfolio/fullsize/6.jpg" ?>" class="portfolio-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/portfolio/thumbnails/6.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/6.jpg" ?>" class="project-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/6.jpg" ?>" class="images-responsive" alt="">
 
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
+                        <div class="project-box-caption">
+                            <div class="project-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
