@@ -7,6 +7,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11"/>
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>"/>
     <?php if (is_singular() && get_option('thread_comments')) wp_enqueue_script('comment-reply'); ?>
+
     <?php wp_head(); ?>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -17,4 +18,4 @@
     <![endif]-->
 </head>
 <body id="page-top">
-    <?php get_template_part('template-parts/navigation/navigation', 'top'); ?>
+    <?php get_template_part('template-parts/navigation/navigation', is_home() ? 'home' : 'primary'); ?>
