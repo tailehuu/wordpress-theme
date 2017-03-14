@@ -1,3 +1,15 @@
+<?php
+/**
+ * Footer
+ *
+ * @package WordPress
+ * @subpackage bds
+ * @since 1.0
+ * @version 1.0
+ */
+
+?>
+
 <footer>
     <div class="container">
         <div class="row">
@@ -15,13 +27,13 @@
                 <br>
                 <ul class="list-inline">
                     <li>
-                        <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        <a href="#"><i class="fa fa-facebook fa-fw fa-3x sr-icons"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        <a href="#"><i class="fa fa-twitter fa-fw fa-3x sr-icons"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                        <a href="#"><i class="fa fa-dribbble fa-fw fa-3x sr-icons"></i></a>
                     </li>
                 </ul>
                 <hr class="small">

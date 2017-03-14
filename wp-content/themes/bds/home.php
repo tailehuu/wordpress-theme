@@ -1,15 +1,16 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: tailehuu
- * Date: 3/8/17
- * Time: 3:45 PM
+ * Home
+ *
+ * @package WordPress
+ * @subpackage bds
+ * @since 1.0
+ * @version 1.0
  */
+
 ?>
 
 <?php get_header(); ?>
-
-    <?php get_header(); ?>
 
     <section class="bg-primary" id="about">
         <div class="container">
@@ -72,7 +73,7 @@
 
                         <h3>Khu du l&#x1ECB;ch sinh th&#xE1;i An T&#xE2;y H&#x1ED3; &#x2013; &#x110;&#x1EA7;u ti&#xEA;n v&#xE0; duy nh&#x1EA5;t t&#x1EA1;i khu v&#x1EF1;c T&#xE2;y B&#x1EAF;c Th&#xE0;nh Ph&#x1ED1; H&#x1ED3; Ch&#xED; Minh</h3>
 
-                        <p class="text-muted">Hi&#x1EC7;n nay n&#x1EBF;u mu&#x1ED1;n &#x111;i du l&#x1ECB;ch sinh th&#xE1;i &#x111;a ph&#x1EA7;n m&#x1ECD;i ng&#x1B0;&#x1EDD;i s&#x1EBD; ngh&#x129; &#x111;&#x1EBF;n c&#xE1;c khu du l&#x1ECB;ch sinh th&#xE1;i nh&#x1B0; B&#xF2; C&#x1EA1;p V&#xE0;ng, B&#x1EED;u Long, Giang &#x110;i&#x1EC1;n&#x2026; Nh&#x1B0;ng h&#x1EA7;u h&#x1EBF;t c&#xE1;c khu du l&#x1ECB;ch n&#xE0;y &#x111;&#x1EC1;u n&#x1EB1;m t&#x1EA1;i ph&#xED;a &#x110;&#xF4;ng Th&#xE0;nh Ph&#x1ED1; v&#xE0; kho&#x1EA3;ng c&#xE1;ch &#x111;&#x1ECB;a l&#xFD; kh&#xE1; xa. S&#x1EDF; h&#x1EEF;u v&#x1ECB; tr&#xED; v&#xF4; c&#xF9;ng thu&#x1EAD;n l&#x1EE3;i &#x111;&#x1B0;&#x1EE3;c thi&#xEA;n nhi&#xEA;n trao t&#x1EB7;ng v&#xEC; v&#x1EAD;y Khu Du L&#x1ECB;ch Sinh Th&#xE1;i An T&#xE2;y H&#x1ED3; s&#x1EBD; tr&#x1EDF; th&#xE0;nh &#x111;i&#x1EC3;m &#x111;&#x1EBF;n l&#xFD; t&#x1B0;&#x1EDF;ng cho du kh&#xE1;ch kh&#x1EAF;p m&#x1ECD;i n&#x1A1;i &#x111;&#x1EB7;c bi&#x1EC7;t l&#xE0; Th&#xE0;nh Ph&#x1ED1; H&#x1ED3; Ch&#xED; Minh v&#xE0; c&#xE1;c t&#x1EC9;nh l&#xE2;n c&#x1EAD;n khi&#x1EBF;n cho Khu d&#xE2;n c&#x1B0; tr&#x1EDF; n&#xEA;n gi&#xE1; tr&#x1ECB; h&#x1A1;n r&#x1EA5;t nhi&#x1EC1;u v&#xE0; &#x111;em l&#x1EA1;i m&#x1ED9;t l&#x1B0;&#x1EE3;ng kh&#xE1;ch c&#x1EF1;c l&#x1EDB;n cho nh&#x1EEF;ng ai kinh doanh t&#x1EA1;i &#x111;&#xE2;y.&#xA0;</p>
+                        <p class="text-muted">Hi&#x1EC7;n nay n&#x1EBF;u mu&#x1ED1;n &#x111;i du l&#x1ECB;ch sinh th&#xE1;i &#x111;a ph&#x1EA7;n m&#x1ECD;i ng&#x1B0;&#x1EDD;i s&#x1EBD; ngh&#x129; &#x111;&#x1EBF;n c&#xE1;c khu du l&#x1ECB;ch sinh th&#xE1;i nh&#x1B0; B&#xF2; C&#x1EA1;p V&#xE0;ng, B&#x1EED;u Long, Giang &#x110;i&#x1EC1;n&#x2026; Nh&#x1B0;ng h&#x1EA7;u h&#x1EBF;t c&#xE1;c khu du ...</p>
                     </div>
                 </div>
             </div>

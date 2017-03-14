@@ -1,6 +1,6 @@
 <?php
 /**
- * Displays home navigation
+ * Displays top navigation
  *
  * @package WordPress
  * @subpackage bds
@@ -22,7 +22,7 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <?php wp_nav_menu(array(
-            'theme_location' => 'home-menu',
+            'theme_location' => is_home() ? 'home-menu' : 'primary-menu',
 
             'container_id' => 'bs-example-navbar-collapse-1',
             'container_class' => 'collapse navbar-collapse',
@@ -34,5 +34,3 @@
     </div>
     <!-- /.container-fluid -->
 </nav>
-
-<?php get_template_part('template-parts/header/header', 'carousel'); ?>
