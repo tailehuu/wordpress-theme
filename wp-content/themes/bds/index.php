@@ -12,7 +12,7 @@
 
 <?php get_header(); ?>
 
-    <section id="news<?= is_single() ? '-detail' : '' ?>">
+    <section id="<?= is_single() ? 'news-detail' : 'news' ?>">
         <div class="container">
             <?php if (have_posts()) : ?>
                 <div class="row">
