@@ -83,11 +83,11 @@
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?php bloginfo('template_url'); ?>/assets/images/project/fullsize/1.jpg" class="project-box">
-                        <img src="<?php bloginfo('template_url'); ?>/assets/images/project/thumbnails/1.jpg" class="images-responsive" alt="">
+                    <a href="<?php bloginfo('template_url'); ?>/assets/images/project/fullsize/1.jpg" class="portfolio-box">
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/project/thumbnails/1.jpg" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -99,11 +99,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/2.jpg" ?>" class="project-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/2.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/2.jpg" ?>" class="portfolio-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/2.jpg" ?>" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -115,11 +115,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/3.jpg" ?>" class="project-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/3.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/3.jpg" ?>" class="portfolio-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/3.jpg" ?>" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -131,11 +131,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/4.jpg" ?>" class="project-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/4.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/4.jpg" ?>" class="portfolio-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/4.jpg" ?>" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -147,11 +147,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/5.jpg" ?>" class="project-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/5.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/5.jpg" ?>" class="portfolio-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/5.jpg" ?>" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -163,11 +163,11 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/6.jpg" ?>" class="project-box">
-                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/6.jpg" ?>" class="images-responsive" alt="">
+                    <a href="<?= get_template_directory_uri() . "/assets/images/project/fullsize/6.jpg" ?>" class="portfolio-box">
+                        <img src="<?= get_template_directory_uri() . "/assets/images/project/thumbnails/6.jpg" ?>" class="img-responsive" alt="">
 
-                        <div class="project-box-caption">
-                            <div class="project-box-caption-content">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
@@ -186,7 +186,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading"><a href="<?php echo bloginfo('url') . "/news"; ?>">Tin T&#x1EE9;c</a></h2>
+                    <h2 class="section-heading"><a href="<?php echo bloginfo('url') . "/category/news"; ?>">Tin T&#x1EE9;c</a></h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -233,15 +233,15 @@
         </div>
     </section>
 
-<!--    <aside class="bg-dark">-->
-<!--        <div class="container text-center">-->
-<!--            <div class="call-to-action">-->
-<!--                <h2>Free Download at Start Bootstrap!</h2>-->
-<!--                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download-->
-<!--                    Now!</a>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </aside>-->
+    <aside class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Free Download at Start Bootstrap!</h2>
+                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download
+                    Now!</a>
+            </div>
+        </div>
+    </aside>
 
     <!-- Map -->
     <section class="map no-padding" id="contact">
