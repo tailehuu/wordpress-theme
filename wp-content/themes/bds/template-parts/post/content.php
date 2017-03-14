@@ -17,7 +17,7 @@ if (is_single()) {
     ?>
     <div class="col-lg-12 col-md-12">
         <h3><a href="<?= get_permalink(); ?>"><?php the_title(); ?></a></h3>
-        <p class="text-muted"><?php the_content(); ?></p>
+        <?php the_content(); ?>
     </div>
 <?php
 } else {
@@ -28,7 +28,7 @@ if (is_single()) {
 
             <h3><a href="<?= get_permalink() ?>"><?php the_title(); ?></a></h3>
 
-            <p class="text-muted"><?php the_excerpt(); ?></p>
+            <?php the_excerpt(); ?>
         </div>
     </div>
 <?php
