@@ -59,14 +59,7 @@
 
                         <p class="text-muted">V&#x1EDB;i h&#x1EC7; th&#x1ED1;ng giao th&#xF4;ng k&#x1EBF;t n&#x1ED1;i
                             thu&#x1EAD;n l&#x1EE3;i, h&#x1EA7;u h&#x1EBF;t t&#x1EA5;t c&#x1EA3; con &#x111;&#x1B0;&#x1EDD;ng
-                            trong khu d&#xE2;n c&#x1B0; &#x111;&#x1EC1;u &#x111;&#x1B0;&#x1EE3;c tr&#x1EA3;i nh&#x1EF1;a,
-                            v&#x129;a h&#xE8;, c&#xE2;y xanh. Chi&#x1EC1;u r&#x1ED9;ng ph&#x1ED5; bi&#x1EBF;n nh&#x1EA5;t
-                            c&#x1EE7;a c&#xE1;c con &#x111;&#x1B0;&#x1EDD;ng l&#xE0; 12 m&#xE9;t, c&#xF3; m&#x1ED9;t s&#x1ED1;
-                            tuy&#x1EBF;n &#x111;&#x1B0;&#x1EDD;ng ch&#xED;nh c&#xF3; chi&#x1EC1;u r&#x1ED9;ng l&#xEA;n t&#x1EDB;i
-                            36&#xA0;m&#xE9;t. V&#xEC; v&#x1EAD;y trong&#xA0;b&#xE1;n k&#xED;nh 10 ph&#xFA;t&#xA0;di chuy&#x1EC3;n
-                            ng&#x1B0;&#x1EDD;i d&#xE2;n trong khu d&#xE2;n c&#x1B0; c&#xF3; th&#x1EC3; ti&#x1EBF;p c&#x1EAD;n
-                            c&#xE1;c ti&#x1EC7;n &#xED;ch nh&#x1B0;: Tr&#x1B0;&#x1EDD;ng h&#x1ECD;c, B&#x1EC7;nh vi&#x1EC7;n,
-                            Khu vui ch&#x1A1;i, Gi&#x1EA3;i tr&#xED;&#x2026;</p>
+                            trong khu d&#xE2;n c&#x1B0; </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -77,15 +70,7 @@
 
                         <p class="text-muted">&#x110;i&#x1EC1;u ch&#xFA;ng t&#xF4;i t&#x1EF1; h&#xE0;o &#x111;&#xF3; ch&#xED;nh
                             l&#xE0; c&#xF3; th&#x1EC3; b&#x1EA3;o v&#x1EC7; &#x111;&#x1B0;&#x1EE3;c t&#xED;nh m&#x1EA1;ng
-                            v&#xE0; t&#xE0;i s&#x1EA3;n c&#x1EE7;a t&#x1EA5;t c&#x1EA3; m&#x1ECD;i c&#x1B0; d&#xE2;n t&#x1EA1;i
-                            &#x111;&#xE2;y.&#xA0;To&#xE0;n b&#x1ED9; tuy&#x1EBF;n &#x111;&#x1B0;&#x1EDD;ng&#xA0;ch&#xFA;ng
-                            t&#xF4;i &#x111;&#x1EC1;u l&#x1EAF;p &#x111;&#x1EB7;t h&#x1EC7; th&#x1ED1;ng Camera an ninh
-                            24/24 &#x111;&#x1B0;&#x1EE3;c ki&#x1EC3;m so&#xE1;t b&#x1EDF;i c&#xE1;c Chuy&#xEA;n vi&#xEA;n
-                            an ninh. V&#xEC; v&#x1EAD;y d&#xF9; &#x111;i b&#x1EA5;t c&#x1EE9; &#x111;&#xE2;u ng&#x1B0;&#x1EDD;i
-                            d&#xE2;n n&#x1A1;i &#x111;&#xE2;y &#x111;&#x1EC1;u y&#xEA;n t&#xE2;m v&#xEC; t&#xE0;i s&#x1EA3;n
-                            v&#xE0; ng&#x1B0;&#x1EDD;i th&#xE2;n c&#x1EE7;a h&#x1ECD; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c
-                            b&#x1EA3;o v&#x1EC7; nghi&#xEA;m ng&#x1EB7;t, &#x111;i&#x1EC1;u n&#xE0;y ch&#x1EC9; c&#xF3;
-                            &#x1EDF; c&#xE1;c khu cao c&#x1EA5;p n&#x103;m sao.</p>
+                            v&#xE0; t&#xE0;i s&#x1EA3;n c&#x1EE7;a t&#x1EA5;t </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -96,25 +81,18 @@
 
                         <p class="text-muted">C&#xF4;ng vi&#xEA;n Th&#x1EBF; Gi&#x1EDB;i Tu&#x1ED5;i Th&#x1A1; s&#x1EBD;
                             l&#xE0; m&#x1ED9;t &#x111;i&#x1EC3;m &#x111;&#x1EBF;n &#x111;&#xE1;ng m&#x1A1; &#x1B0;&#x1EDB;c
-                            cho t&#x1EA5;t c&#x1EA3; m&#x1ECD;i ng&#x1B0;&#x1EDD;i t&#x1EEB; kh&#x1EAF;p n&#x1A1;i
-                            &#x111;&#x1EBF;n tham quan, vui ch&#x1A1;i. Khi t&#x1EDB;i &#x111;&#xE2;y, m&#x1ECD;i ng&#x1B0;&#x1EDD;i
-                            s&#x1EBD; c&#xF3; c&#x1EA3;m gi&#xE1;c nh&#x1B0; l&#x1EA1;c v&#xE0;o x&#x1EE9; s&#x1EDF; th&#x1EA7;n
-                            ti&#xEA;n c&#x169;ng nh&#x1B0; &#x111;&#x1EAF;m m&#xEC;nh v&#xE0;o c&#xE1;c ho&#x1EA1;t
-                            &#x111;&#x1ED9;ng vui ch&#x1A1;i gi&#x1EA3;i tr&#xED; v&#xF4; c&#xF9;ng phong ph&#xFA;.</p>
+                            cho t&#x1EA5;t c&#x1EA3; m&#x1ECD;i ng&#x1B0;&#x1EDD;i </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
 
-                        <h3>Khu du l&#x1ECB;ch sinh th&#xE1;i An T&#xE2;y H&#x1ED3; &#x2013; &#x110;&#x1EA7;u ti&#xEA;n
-                            v&#xE0; duy nh&#x1EA5;t t&#x1EA1;i khu v&#x1EF1;c T&#xE2;y B&#x1EAF;c Th&#xE0;nh Ph&#x1ED1;
-                            H&#x1ED3; Ch&#xED; Minh</h3>
+                        <h3>Khu du l&#x1ECB;ch sinh th&#xE1;i An T&#xE2;y H&#x1ED3; &#x2013;</h3>
 
                         <p class="text-muted">Hi&#x1EC7;n nay n&#x1EBF;u mu&#x1ED1;n &#x111;i du l&#x1ECB;ch sinh th&#xE1;i
                             &#x111;a ph&#x1EA7;n m&#x1ECD;i ng&#x1B0;&#x1EDD;i s&#x1EBD; ngh&#x129; &#x111;&#x1EBF;n c&#xE1;c
-                            khu du l&#x1ECB;ch sinh th&#xE1;i nh&#x1B0; B&#xF2; C&#x1EA1;p V&#xE0;ng, B&#x1EED;u Long,
-                            Giang &#x110;i&#x1EC1;n&#x2026; Nh&#x1B0;ng h&#x1EA7;u h&#x1EBF;t c&#xE1;c khu du ...</p>
+                            khu du </p>
                     </div>
                 </div>
             </div>
@@ -236,38 +214,7 @@
         </div>
     </section>
 
-    <section id="news">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading"><a href="<?php echo bloginfo('url') . "/category/news"; ?>">Tin T&#x1EE9;c</a>
-                    </h2>
-                    <hr class="primary">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <?php
-            global $post;
-            $args = array('offset' => 1, 'category' => 35);
-            $myposts = get_posts($args);
-            foreach ($myposts as $post) : setup_postdata($post); ?>
-                <?php get_template_part('template-parts/post/content', get_post_format()); ?>
-            <?php endforeach;
-            wp_reset_postdata(); ?>
-        </div>
-    </section>
-
-    <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="http://startbootstrap.com/template-overviews/creative/"
-                   class="btn btn-default btn-xl sr-button">Download
-                    Now!</a>
-            </div>
-        </div>
-    </aside>
+    <?php get_template_part('template-parts/news/news', 'home'); ?>
 
     <!-- Map -->
     <section class="map no-padding" id="contact">

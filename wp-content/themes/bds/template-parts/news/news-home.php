@@ -1,6 +1,6 @@
 <?php
 /**
- * Post content for home page
+ * News for for home page
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *

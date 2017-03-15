@@ -53,7 +53,7 @@
 /* Map */
 
 .map {
-    height: 600px;
+    height: 500px;
 }
 
 @media (max-width: 768px) {
@@ -69,9 +69,9 @@
 /* News */
 
 #news-detail {
-    padding: 0;
+    padding: 50px 0 0;
 }
 
 .paginate {
-    padding-top: 100px;
+    padding: 100px;
 }
