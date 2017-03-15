@@ -24,7 +24,7 @@ if (is_single()) {
     ?>
     <div class="col-lg-3 col-md-6 text-center">
         <div class="service-box">
-            <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
+            <?php the_post_thumbnail(array(260, 195)); ?>
 
             <h3><a href="<?= get_permalink() ?>"><?php the_title(); ?></a></h3>
 

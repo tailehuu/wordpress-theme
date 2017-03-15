@@ -25,7 +25,7 @@
                     <!-- Add the pagination functions here. -->
                     <div class="row paginate">
                         <div class="col-lg-12 col-md-12 text-center">
-                            <?php posts_nav_link(); ?>
+                            <?php posts_nav_link('|', '< Trang tr&#x1B0;&#x1EDB;c', 'Trang sau >'); ?>
                         </div>
                     </div>
                 <?php endif; ?>
