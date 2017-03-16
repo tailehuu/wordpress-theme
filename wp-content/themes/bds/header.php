@@ -1,6 +1,6 @@
 <?php
 /**
- * Header
+ * Header template
  *
  * @package WordPress
  * @subpackage bds

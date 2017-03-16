@@ -1,6 +1,6 @@
 <?php
 /**
- * Footer
+ * Footer template
  *
  * @package WordPress
  * @subpackage bds

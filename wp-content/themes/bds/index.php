@@ -1,6 +1,6 @@
 <?php
 /**
- * Index
+ * Index template
  *
  * @package WordPress
  * @subpackage bds
@@ -12,6 +12,6 @@
 
 <?php get_header(); ?>
 
-<?php get_template_part('template-parts/news/news'); ?>
+<?php get_template_part('news'); ?>
 
 <?php get_footer(); ?>
