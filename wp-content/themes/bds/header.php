@@ -33,4 +33,4 @@
 
 <?php get_template_part('template-parts/navigation/navigation', 'top'); ?>
 
-<?php get_template_part('carousel'); ?>
+<?php get_template_part('template-parts/carousel/carousel'); ?>
