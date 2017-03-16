@@ -115,9 +115,6 @@ function bds_scripts()
     // css creative
     wp_enqueue_style('creative', get_template_directory_uri() . '/assets/css/creative.min.css');
 
-    // css custom
-    wp_enqueue_style('custom', get_template_directory_uri() . '/assets/css/custom.css');
-
     // js
     // js vendor
     wp_enqueue_script('jquery-min', get_template_directory_uri() . '/vendor/jquery/jquery.min.js', array(), false, true);

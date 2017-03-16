@@ -68,7 +68,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 /* Map */
 
 .map {
-    height: 600px;
+    height: 400px;
 }
 
 @media (max-width: 768px) {
@@ -85,4 +85,14 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 footer {
     padding: 50px 0 0;
+}
+
+/* News */
+
+#news-detail {
+    padding: 50px 0 0;
+}
+
+.paginate {
+    padding-top: 100px;
 }
