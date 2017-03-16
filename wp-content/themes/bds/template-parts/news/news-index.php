@@ -1,6 +1,6 @@
 <?php
 /**
- * News template for index page
+ * Template part for displaying news category for index page
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
@@ -30,7 +30,7 @@
         <?php if (have_posts()) : ?>
             <div class="row">
                 <?php while (have_posts()) : the_post(); ?>
-                    <?php get_template_part('template-parts/post/content', get_post_format()); ?>
+                    <?php get_template_part('template-parts/news/news', 'content'); ?>
                 <?php endwhile; ?>
             </div>
 
@@ -43,7 +43,7 @@
                 </div>
             <?php endif; ?>
         <?php else : ?>
-            <?php get_template_part('template-parts/post/content', 'none'); ?>
+            <?php get_template_part('template-parts/news/news', 'none'); ?>
         <?php endif; ?>
     </div>
 </section>

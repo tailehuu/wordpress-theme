@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying none content for post
+ * Template part for displaying none content
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
@@ -13,5 +13,5 @@
 ?>
 
 <div class="col-lg-12 col-md-12">
-    There is no content
+    There is no content on this.
 </div>

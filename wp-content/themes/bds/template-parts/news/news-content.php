@@ -23,7 +23,7 @@ if (is_single()) {
     <!-- Add the pagination functions here. -->
     <div class="row paginate">
         <div class="col-lg-12 col-md-12 text-center">
-            <?php next_post_link(); ?>
+            <?php next_post_link('%link &raquo;', '%title', true); ?>
         </div>
     </div>
 <?php

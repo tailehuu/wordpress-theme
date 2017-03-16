@@ -1,6 +1,6 @@
 <?php
 /**
- * News template for for home page
+ * Template part for displaying news category for home page
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
@@ -25,10 +25,10 @@
     <div class="container">
         <?php
         global $post;
-        $args = array('offset' => 1, 'category' => 35);
+        $args = array('posts_per_page' => 4, 'offset' => 1, 'category' => 35);
         $myposts = get_posts($args);
         foreach ($myposts as $post) : setup_postdata($post); ?>
-            <?php get_template_part('template-parts/post/content', get_post_format()); ?>
+            <?php get_template_part('template-parts/news/news', 'content'); ?>
         <?php endforeach;
         wp_reset_postdata(); ?>
     </div>

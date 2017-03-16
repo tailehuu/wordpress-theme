@@ -1,12 +1,13 @@
 <?php
 /**
- * Displays header carousel
+ * Carousel template
  *
  * @package WordPress
  * @subpackage bds
  * @since 1.0
  * @version 1.0
  */
+
 ?>
 
 <!-- Full Page Image Background Carousel Header -->

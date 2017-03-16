@@ -12,6 +12,6 @@
 
 <?php get_header(); ?>
 
-<?php get_template_part('news'); ?>
+<?php get_template_part('template-parts/news/news', 'index'); ?>
 
 <?php get_footer(); ?>
