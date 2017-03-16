@@ -96,3 +96,7 @@ footer {
 .paginate {
     padding-top: 100px;
 }
+
+.section-heading a:hover {
+    text-decoration: none;
+}

@@ -24,7 +24,7 @@
         <?php
         global $post;
         $i = 0;
-        $args = array('offset' => 1, 'category' => 40, 'order' => 'ASC');
+        $args = array('category' => 40);
         $myposts = get_posts($args);
         foreach ($myposts as $post) : setup_postdata($post);
             $i++;
