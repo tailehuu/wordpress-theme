@@ -17,7 +17,12 @@
         <div class="row no-gutter popup-gallery">
             <?php
             global $post;
-            $args = array('posts_per_page' => 6, 'offset' => 1, 'category' => 36);
+            $args = array(
+                'posts_per_page' => 6,
+                'offset' => 1,
+                'category' => 36,
+                'nopaging' => true
+            );
             $myposts = get_posts($args);
             foreach ($myposts as $post) : setup_postdata($post); ?>
                 <?php get_template_part('template-parts/project/project', 'content'); ?>

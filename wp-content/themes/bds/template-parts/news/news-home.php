@@ -25,7 +25,12 @@
     <div class="container">
         <?php
         global $post;
-        $args = array('posts_per_page' => 4, 'offset' => 1, 'category' => 35);
+        $args = array(
+            'posts_per_page' => 4,
+            'offset' => 1,
+            'category' => 35,
+            'nopaging' => true
+        );
         $myposts = get_posts($args);
         foreach ($myposts as $post) : setup_postdata($post); ?>
             <?php get_template_part('template-parts/news/news', 'content'); ?>
